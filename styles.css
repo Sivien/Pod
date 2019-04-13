@@ -1,0 +1,189 @@
+/*********************************HTML ELEMENTS*******************************/
+body {
+  margin: 0;
+  text-align: center;
+}
+
+a:hover {
+  color: black;
+}
+p {
+  margin: 0;
+}
+img {
+  outline: 0;
+}
+hr {
+  margin: 0;
+  border: 0;
+}
+#navbar {
+  overflow: hidden;
+}
+/* ********************************CSS ELEMENTS******************************* */
+.top-sec {
+  background-image: url(guns.jpg);
+  background-size: cover;
+  position: relative;
+
+
+}
+.calendar-sec {
+  background-color: #00FF00;
+
+}
+.footer-sec {
+  background-image: url(grunge1.png);
+  color: white;
+  text-align: center;
+
+
+}
+
+
+.footer{
+  padding: 25px 0 25px 0;
+  display: inline-block;
+}
+.calendar {
+  margin-right: auto;
+  text-align: center;
+
+
+}
+
+.div1 {
+  /* padding-bottom: 10%; */
+  position: relative;
+    left: 166px;
+    bottom: 66px;
+
+  display: inline-block;
+}
+.hours {
+  text-align: center;
+}
+
+.welcome-sec {
+  background-image: url("grunge1.png");
+}
+
+.top-container-2 {
+  max-width: 100%;
+}
+
+.div-welcome {
+  text-align: center;
+  color: white;
+
+
+}
+
+.header {
+  display: inline;
+  max-width: 50%;
+}
+
+.div-welcome1 {
+  display: inline-block;
+  max-width: 50%;
+  text-align: center;
+}
+
+.pod {
+  position: absolute;
+
+  position: sticky;
+  top: 0;
+  background-image: url("grunge1.png");
+  z-index: +1;
+  }
+
+.nothing {
+  position: static;
+}
+
+.logo {
+  position: relative;
+  top: 0;
+  left: 0;
+  background: transparent;
+  max-width: 100%;
+  /* z-index: -1; */
+}
+
+.navbar-toggler {
+  color: black;
+}
+
+
+.rifles  {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+
+.handguns {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+
+.suppressor {
+height: 160.5px;
+width: 100%;
+}
+
+.po {
+  color: #f7f7f7;
+}
+
+.offer {
+  text-align: center;
+  display: inline;
+}
+.topbar {
+  position: fixed;
+  background: transparent;
+}
+
+.phone-number {
+  /* padding-top: 7.5px; */
+  color: white;
+}
+
+.about {
+  border-left: 10px solid white;
+  height: 15px;
+}
+
+.name {
+  position: absolute;
+  color: white;
+  width: 126px;
+  padding: 0 0 0 8;
+}
+
+.words {
+  color: #f7f7f7;
+  /* display: inline-block; */
+}
+
+.fab {
+  color: white;
+}
+
+.toggle {
+  color: black;
+}
+
+.this {
+  margin: auto;
+}
+.social {
+  /* position: relative; */
+  margin-left: auto;
+  margin: auto;
+  margin-bottom: auto;
+
+}
