@@ -89,6 +89,9 @@ hr {
   max-width: 100%;
   text-align: center;
 }
+.para {
+  width: 100%;
+}
 
 .pod {
   position: absolute;
